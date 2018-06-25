@@ -34,3 +34,4 @@ Outline for FHIR talk:
      * Map incoming data to FHIR in the case that the customer is not sufficiently advanced
      * Use FHIR for internal messaging
      * Steal terminology and reference data sets (Think: LOINC)
+     * Think about FHIR as a way to link the pharmacy and provider more closely
