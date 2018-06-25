@@ -35,3 +35,4 @@ Outline for FHIR talk:
      * Use FHIR for internal messaging
      * Steal terminology and reference data sets (Think: LOINC)
      * Think about FHIR as a way to link the pharmacy and provider more closely
+     * Use FHIR as a data model and data store
