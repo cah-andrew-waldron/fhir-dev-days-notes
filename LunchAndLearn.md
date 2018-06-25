@@ -29,3 +29,8 @@ Outline for FHIR talk:
      * Not all EHR systems support FHIR right now
      * Scientific research community and Payers are second class citizens
 
+ * What can we do with FHIR at Fuse
+     * Push customers to use FHIR
+     * Map incoming data to FHIR in the case that the customer is not sufficiently advanced
+     * Use FHIR for internal messaging
+     * Steal terminology and reference data sets (Think: LOINC)
