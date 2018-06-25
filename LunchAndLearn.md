@@ -36,3 +36,5 @@ Outline for FHIR talk:
      * Steal terminology and reference data sets (Think: LOINC)
      * Think about FHIR as a way to link the pharmacy and provider more closely
      * Use FHIR as a data model and data store (HAPI)
+
+ * Questions
